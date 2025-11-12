@@ -1,1 +1,5 @@
 config.properties
+
+db.url=jdbc:mysql://localhost:3306/water_activity
+db.user=root
+db.password=Hasones12!
