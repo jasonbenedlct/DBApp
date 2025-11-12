@@ -1,3 +1,3 @@
 # CCINFOM S27 Group 3 Database Application
 
-hola.
+This is a trial for a commit message.
