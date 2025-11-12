@@ -1,3 +1,3 @@
 # CCINFOM S27 Group 3 Database Application
 
-This is a trial for a commit message.
+Please read the instructions for the config.properties thingy
